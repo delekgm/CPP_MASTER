@@ -1,0 +1,17 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/delek/vscodeProjects/CPP_MASTER/Excersism/Lasagna/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000B90, symSize: 0x150 }
+  - { offsetInCU: 0x469B, offset: 0x469B, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x180, symBinAddr: 0x100000D10, symSize: 0x50 }
+  - { offsetInCU: 0x49AD, offset: 0x49AD, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x360, symBinAddr: 0x100000EF0, symSize: 0x30 }
+  - { offsetInCU: 0x74A2, offset: 0x74A2, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000B90, symSize: 0x150 }
+  - { offsetInCU: 0x74F4, offset: 0x74F4, size: 0x8, addend: 0x0, symName: __Z8ovenTimev, symObjAddr: 0x150, symBinAddr: 0x100000CE0, symSize: 0x10 }
+  - { offsetInCU: 0x75BE, offset: 0x75BE, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x160, symBinAddr: 0x100000CF0, symSize: 0x20 }
+  - { offsetInCU: 0x75F0, offset: 0x75F0, size: 0x8, addend: 0x0, symName: __Z17remainingOvenTimei, symObjAddr: 0x1D0, symBinAddr: 0x100000D60, symSize: 0x20 }
+  - { offsetInCU: 0x761C, offset: 0x761C, size: 0x8, addend: 0x0, symName: __Z8prepTimei, symObjAddr: 0x1F0, symBinAddr: 0x100000D80, symSize: 0x10 }
+  - { offsetInCU: 0x7648, offset: 0x7648, size: 0x8, addend: 0x0, symName: __Z13letter_gradesi, symObjAddr: 0x200, symBinAddr: 0x100000D90, symSize: 0xC0 }
+  - { offsetInCU: 0x7736, offset: 0x7736, size: 0x8, addend: 0x0, symName: __ZNSt3__15arrayIiLm4EEixB8ue170006Em, symObjAddr: 0x2C0, symBinAddr: 0x100000E50, symSize: 0x20 }
+  - { offsetInCU: 0x7768, offset: 0x7768, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x2E0, symBinAddr: 0x100000E70, symSize: 0x80 }
+  - { offsetInCU: 0x77D4, offset: 0x77D4, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x390, symBinAddr: 0x100000F20, symSize: 0x2B }
+...
